@@ -14,8 +14,5 @@ O objetivo é documentar a experiência de criação de uma ferramenta simples d
 - GitHub
 - Excel
 
-## 📷 Capturas de tela
-As imagens relevantes poderá está organizadas na pasta `/images`.
-
 ##  Conclusão
 Este projeto representa minha entrega do desafio, firmando o aprendizado sobre tema apresentado e documentação de projetos.
