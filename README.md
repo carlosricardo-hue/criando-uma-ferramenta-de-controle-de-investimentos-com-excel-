@@ -1,8 +1,8 @@
 # Criando uma Ferramenta de Controle de Investimentos com Excel
 
 ##  Descrição
-Este repositório foi criado como parte do desafio proposto nas vídeo-aulas na dio.me.  
-O objetivo é documentar a experiência de criação de uma ferramenta simples de controle de investimentos utilizando Excel.
+Este repositório foi criado como parte do desafio proposto nas vídeo aulas na dio.me.  
+Ele tem como objetivo documentar a experiência de criação de uma ferramenta simples de controle de investimentos utilizando Excel.
 
 ## Objetivos
 - Aplicar os conceitos aprendidos nas aulas.
